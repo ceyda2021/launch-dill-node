@@ -4,7 +4,7 @@
 | Network Name     | Dill Testnet Andes |
 | ------------- | ---------------- |
 Rpc URL | https://rpc-andes.dill.xyz/
-Chain ID | 558329
+Chain ID | 558329b
 Currency Symbol | DILL
 Explorer URL | https://andes.dill.xyz/
 
